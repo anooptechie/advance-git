@@ -1,1 +1,2 @@
 Application-initialsied
+Update pplication header styling
